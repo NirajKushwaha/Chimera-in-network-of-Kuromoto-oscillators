@@ -1,2 +1,2 @@
 # Chimera-in-network-of-Kuromoto-oscillators
-This repository contains codes that I wrote while working on my MSc thesis. This work resulted in a research paper which is currently under review in "Frontiers in Physics". I will link the paper once the paper gets published.
+This repository contains codes that I wrote while working on my MSc thesis. This work resulted in a research paper: https://doi.org/10.3389/fphy.2021.513969
